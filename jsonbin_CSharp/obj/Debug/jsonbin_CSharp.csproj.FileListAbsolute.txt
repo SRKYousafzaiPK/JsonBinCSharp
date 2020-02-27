@@ -1,0 +1,9 @@
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\bin\Debug\jsonbin_CSharp.exe.config
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\bin\Debug\jsonbin_CSharp.exe
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\bin\Debug\jsonbin_CSharp.pdb
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.csprojAssemblyReference.cache
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.Form1.resources
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.Properties.Resources.resources
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.csproj.GenerateResource.cache
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.exe
+S:\Projects\jsonbin_CSharp\jsonbin_CSharp\obj\Debug\jsonbin_CSharp.pdb
